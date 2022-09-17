@@ -5,5 +5,6 @@ En esta sesión se procedió a dar una vista general de que trata el curso y que
 ## Recursos
 - [ Grabación ](https://youtu.be/mLuuiRYl6-k)
 - [ Slides ](/Slides)
-- [ MLSA ](https://studentambassadors.microsoft.com/en-US/)
 - [ Arduino ](https://www.arduino.cc/)
+- [ Tinkercad ](https://www.tinkercad.com/)
+- [ MLSA ](https://studentambassadors.microsoft.com/en-US/)
