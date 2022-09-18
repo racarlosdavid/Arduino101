@@ -19,7 +19,7 @@ Ejemplos para el curso introducción a arduino 2S 2022
 - Led Verde
 - 2 Resistencias de 220 Ohm
 - bomba sumergible horizontal/vetical de 6v o bomba para líquidos de diagragma de 12V 
-- Módulo relé 5V DE trigger bajo o trigger alto
+- Módulo relé 5V de trigger bajo o trigger alto
 
 ## Materiales Ejemplo 3 
 - Arduino (Uno, Mega, etc.)
