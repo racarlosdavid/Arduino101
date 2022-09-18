@@ -12,6 +12,7 @@ Ejemplos para el curso introducción a arduino 2S 2022
 - 2 Resistencias de 220 Ohm
 - Protoboard
 - Jumper Macho a Macho
+- Jumper Macho a Hembra
 
 ## Materiales Ejemplo 2
 - Arduino (Uno, Mega, etc.)
@@ -23,6 +24,7 @@ Ejemplos para el curso introducción a arduino 2S 2022
 - Módulo relé 5V de trigger bajo o trigger alto
 - Protoboard
 - Jumper Macho a Macho
+- Jumper Macho a Hembra
 
 ## Materiales Ejemplo 3 
 - Arduino (Uno, Mega, etc.)
