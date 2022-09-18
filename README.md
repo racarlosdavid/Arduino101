@@ -4,7 +4,7 @@ Ejemplos para el curso introducción a arduino 2S 2022
 ## Clases
 - [ Clase 1 ](https://github.com/racarlosdavid/Arduino101/tree/Clase_1)
 
-## Materiales Ejemplo 
+## Materiales Ejemplo 1 
 - Arduino (Uno, Mega, etc.)
 - Modulo sensor ultrasonico
 - Led Rojo
