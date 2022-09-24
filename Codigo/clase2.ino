@@ -19,7 +19,7 @@ void metodoSumar(int num1,int num2){
 /*
 Funcion: devuelve el resultado cuando se ejecuta, el tipo de dato es el tipo de dato del valor que se retorna
 */
-int FuncionSumar(int num1,int num2){
+int funcionSumar(int num1,int num2){
   return num1 + num2;   
 }
 
