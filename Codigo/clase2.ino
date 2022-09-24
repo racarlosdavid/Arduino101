@@ -6,7 +6,7 @@ void setup() {
 
 void loop() {
   metodoSumar(10,20);
-  resultado = FuncionSumar(100,5000);
+  resultado = funcionSumar(100,5000);
   Serial.println(resultado);
 }
 
