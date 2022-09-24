@@ -1,10 +1,10 @@
-# CLASE 1 Introducción a Arduino 2S 2022
+# CLASE 2 Introducción a Arduino 2S 2022
 ## Descripción
-En esta sesión se procedió a dar una vista general de que trata el curso y que herramientas serán utilizadas para el desarrollo del mismo, se informó de la actividades que serán realizadas durante el curso y la ponderación de dichas actividades.
+En esta sesión aprendimos los conceptos de tipos de datos, variables, constantes, metodos y funciones y se hizo un pequeño ejemplo para entender mejor estos conceptos, al finalizar se  explico la tarea que se debe realizar para la proxima clase.
 
 ## Recursos
-- [ Grabación ](https://youtu.be/mLuuiRYl6-k)
+- [ Grabación ](https://youtu.be/hbMJTX0ZVto)
 - [ Slides ](/Slides)
-- [ Arduino ](https://www.arduino.cc/)
-- [ Tinkercad ](https://www.tinkercad.com/)
-- [ MLSA ](https://studentambassadors.microsoft.com/en-US/)
+- [ Codigo ](/Codigo)
+- [ Documentacion Arduino ](https://www.arduino.cc/reference/en/)
+- [ Ejemplo en Tinkercad ](https://www.tinkercad.com/embed/18M2stMjZUT?editbtn=1)
